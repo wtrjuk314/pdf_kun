@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdf_kun/static/css/main.53326edb.css",
+    "main.js": "/pdf_kun/static/js/main.7fba986b.js",
+    "index.html": "/pdf_kun/index.html",
+    "main.53326edb.css.map": "/pdf_kun/static/css/main.53326edb.css.map",
+    "main.7fba986b.js.map": "/pdf_kun/static/js/main.7fba986b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53326edb.css",
+    "static/js/main.7fba986b.js"
+  ]
+}
